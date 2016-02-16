@@ -26,21 +26,8 @@ You can load the plugin by editing your `config.json` to include the following i
 
 ## History
 
-* 20150518, V0.0.1
-    * Initial Version
-* 20150522, V0.0.2
-    * Fixed typos
-    * Now using device type Basic:1.0 instead upnp:rootdevice
-    * Fixed fallback code
-* 20150528, V0.0.3
-    * Added `friendlyName` property. Updated README.
-* 20150609, V0.0.4 (release for testing, only)
-    * Added device icons.
-    * Now using a peer-upnp fork which handles icon requests
-* 20150611, V0.0.5
-    * Fixed icon path
-* 20150618, V0.0.6
-    * Added missing icon file references to "files" property in package.json
-* 20150704, V0.0.7
-    * Revised license information to provide a SPDX 2.0 license identifier in consonance with npm v2.1 guidelines on 
-      license metadata - see also https://github.com/npm/npm/releases/tag/v2.10.0
+See [GitHub Releases](https://github.com/mwittig/pimatic-upnp-root/releases).
+
+## License
+
+[GPL-2.0](https://github.com/mwittig/pimatic-upnp-root/blob/master/LICENSE).
