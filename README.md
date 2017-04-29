@@ -1,5 +1,7 @@
 # pimatic-upnp-root
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mwittig/pimatic-upnp-root.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/pimatic-upnp-root.svg)](http://badge.fury.io/js/pimatic-upnp-root)
 
 Pimatic UPnP Root-Device to advertise the Pimatic web interface on the Local Network. For example, this may be useful 
