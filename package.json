@@ -33,7 +33,7 @@
   "license": "GPL-2.0",
   "configSchema": "upnp-root-config-schema.coffee",
   "dependencies": {
-    "peer-upnp": "git+https://github.com/mwittig/peer-upnp.git"
+    "peer-upnp": "git+https://github.com/mwittig/peer-upnp.git#41eee47ed47793e14dad66ae65aca73505c7873a"
   },
   "peerDependencies": {
     "pimatic": ">0.9.0"
