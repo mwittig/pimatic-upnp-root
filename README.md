@@ -30,4 +30,8 @@ See [GitHub Releases](https://github.com/mwittig/pimatic-upnp-root/releases).
 
 ## License
 
+Copyright (c) 2018, Marcus Wittig and contributors
+
+All rights reserved.
+
 [GPL-2.0](https://github.com/mwittig/pimatic-upnp-root/blob/master/LICENSE).
